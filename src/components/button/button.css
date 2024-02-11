@@ -1,0 +1,28 @@
+.funnypelican-button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+.funnypelican-button--primary {
+  color: white;
+  background-color: #FF6600;
+}
+.funnypelican-button--secondary {
+  color: #FF6600;
+  background-color: white;
+}
+.funnypelican-button--small {
+  font-size: 12px;
+  padding: 12px 18px;
+}
+.funnypelican-button--medium {
+  font-size: 15px;
+  padding: 16px 24px;
+}
+.funnypelican-button--large {
+  font-size: 18px;
+  padding: 20px 30px;
+}
