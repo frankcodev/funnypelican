@@ -24,7 +24,9 @@ npm install
 ```
 
 # Start the Storybook development server
+```bash
 yarn storybook
 # or
 npm run storybook
+```
 
